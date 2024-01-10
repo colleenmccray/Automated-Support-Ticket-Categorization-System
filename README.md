@@ -1,4 +1,4 @@
-### Automated Support Ticket Categorization System
+### **Automated Support Ticket Categorization System**
 
 ## Introduction (System Role):
 
